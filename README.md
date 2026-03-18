@@ -107,6 +107,11 @@ Predicted values:
  20.91914167 78.09382734 69.37226512]
 Actual values:
 [20 27 69 30 62 35 24 86 76]
+
+<img width="1023" height="561" alt="image" src="https://github.com/user-attachments/assets/0669b109-871b-4264-a10e-fb84c2c1caf5" />
+
+<img width="989" height="642" alt="image" src="https://github.com/user-attachments/assets/e21f97b9-0b5a-47ed-8b93-8d5f4f6fe10e" />
+
 ```
 
 
