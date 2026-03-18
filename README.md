@@ -88,32 +88,11 @@ print('Root Mean Squared Error (RMSE) =', rmse)
 ```
 
 ## Output:
-```
-   Hours  Scores
-0    2.5      21
-1    5.1      47
-2    3.2      27
-3    8.5      75
-4    3.5      30
-Last 5 rows of the dataset:
-    Hours  Scores
-20    2.7      30
-21    4.8      54
-22    3.8      35
-23    6.9      76
-24    7.8      86
-Predicted values:
-[17.04289179 33.51695377 74.21757747 26.73351648 59.68164043 39.33132858
- 20.91914167 78.09382734 69.37226512]
-Actual values:
-[20 27 69 30 62 35 24 86 76]
+<img width="859" height="417" alt="image" src="https://github.com/user-attachments/assets/2635db69-0093-470b-a0e9-a3460554e193" />
 
-<img width="1023" height="561" alt="image" src="https://github.com/user-attachments/assets/0669b109-871b-4264-a10e-fb84c2c1caf5" />
+<img width="1023" height="561" alt="image" src="https://github.com/user-attachments/assets/da2190d3-0b86-4d68-ad7b-1f1b87622231" />
 
-<img width="989" height="642" alt="image" src="https://github.com/user-attachments/assets/e21f97b9-0b5a-47ed-8b93-8d5f4f6fe10e" />
-
-```
-
+<img width="989" height="642" alt="image" src="https://github.com/user-attachments/assets/2a7be0c4-1b47-419c-bc3c-9a672bb3d52f" />
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
